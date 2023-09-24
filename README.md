@@ -1,9 +1,8 @@
 # Hackathon
 Collaborative Github repo
 
-﻿
-
 Notes: Meeting 9/24
+
 Home Screen:
 • Users can ask about a curriculum in a search bar, and recommendations to best learn and clickable resources will pop up
 Ex: I need to learn about addition [Search] Here's where to start [Insert Curriculum]
